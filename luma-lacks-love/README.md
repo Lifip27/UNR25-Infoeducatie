@@ -124,4 +124,4 @@ hex_str = ''.join(f"{v:x}" for v in x)
 flag = bytes.fromhex(hex_str).decode()
 ```
 
-Astfel, obținem flag-ul în clar, cu formatul cerut CTF{...}.
+##### Flag: 
