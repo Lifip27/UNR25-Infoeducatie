@@ -1,16 +1,29 @@
-Ce este ingineria inversa?
+# Ce este Ingineria Inversă?
 
 ![chall](poza.png)
 
-DESCRIPTION:
+## DESCRIPTION
 
-"Reverse Engineering" (sau "Ingineria Inversă") este un fel de "detectivistică tehnologică". Să îți imaginezi că ai un jucărie robot foarte cool și vrei să afli cum funcționează. În loc să începi cu instrucțiuni și piese pentru a-l construi, începi cu robotul finit și îl desfaci bucățică cu bucățică pentru a înțelege cum a fost asamblat și cum funcționează fiecare parte.
+"Reverse Engineering" (sau **Ingineria Inversă**) este ca o detectivistică tehnologică: în loc să ai instrucțiunile de construcție ale unui dispozitiv, primești produsul finit și încerci să înțelegi cum funcționează. În acest challenge, vom desfășura două fișiere executabile pentru a descoperi parole ascunse.
 
-fisiere: 1.exe, 2.exe
+---
 
-Solutia:
+## Fișiere
 
-One thing about rev, toolurile potrivite ajuta foarte mult. Spre exemplu cele mai populare de reverse engineering sunt ghidra, Ida Pro, x64dbg,pwngdb and so on. Fara mai multe spuse sa incepem:
+- `1.exe`
+- `2.exe`
+
+## Unelte recomandate
+
+În ingineria inversă, uneltele potrivite sunt esențiale. Cele mai comune includ:
+- `strings`
+- `Ghidra`
+- `IDA Pro`
+- `x64dbg`
+- `CyberChef`
+- `pwndbg` / `gdb`
+
+---
 
 ![challs](poza2.png)
 
