@@ -91,7 +91,9 @@ Functia hash:
 
 Aceasta functie este o functie de XOR cu byte-ul 0x55.
 Adica ia cate un character din variabila Str2 si ii face un calcul matematic prin al descifra.
-Pentru a da reverse la aceasta functie putem sa intram pe site-ul:[https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+Pentru a da reverse la aceasta functie putem sa intram pe site-ul:
+
+[https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 
 ![cyberchef](poza8.png)
 
