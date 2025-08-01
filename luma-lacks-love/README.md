@@ -1,5 +1,7 @@
 # luma-lacks-love
 
+![luma](poza.png)
+
 ## Descriere
 
 Avem o sumă modulară de forma:
@@ -124,4 +126,4 @@ hex_str = ''.join(f"{v:x}" for v in x)
 flag = bytes.fromhex(hex_str).decode()
 ```
 
-##### Flag: 
+##### Flag: CTF{4dm1t_y0u_l0v3_lum4_alr34dy}
