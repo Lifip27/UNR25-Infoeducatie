@@ -17,10 +17,17 @@ File: Image.zip
 
 Un google search si il gasim Blaise de Vigenere.
 
-#### Flag: Blaise de Vigenere
+##### Flag: Blaise de Vigenere
 
 2. What is the password for the ZIP file?
 
 Facem Viginere cypher la parola "abpu pumk" cu cheia "UNBREAKABLE" si primim parola "good luck".
 
 ##### Flag: CTF{good luck}
+
+3. Can you provide the SHA256 hash of the .AD1 image?
+
+Dupa ce extractam fisierul putem sa folosim comanda:
+```bash
+    sha256sum Image.ad1
+```
