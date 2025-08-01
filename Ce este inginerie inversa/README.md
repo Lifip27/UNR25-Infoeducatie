@@ -14,7 +14,7 @@ One thing about rev, toolurile potrivite ajuta foarte mult. Spre exemplu cele ma
 
 ![challs](poza2.png)
 
-Q1. Care este parola cu care ati primit mesajul "Access granted" ruland fisierul 1.exe?
+## Q1. Care este parola cu care ati primit mesajul "Access granted" ruland fisierul 1.exe?
 
 Mai intai sa incercam sa vedem daca fisierul are ceva strings "hardcoded".
 
@@ -37,7 +37,7 @@ grep password
 ```
 Va filtra doar cele care contin "password"
 
-O alta methoda prin care putem gasi parola este sa o deschidem intr-un decompiler
+O alta methoda prin care putem gasi parola este sa o deschidem intr-un decompiler.
 
 ![rev](poza4.png)
 
@@ -45,7 +45,7 @@ Si gasim parola dinnou.
 
 ##### Flag: secret-password-124
 
-Q2. Trecem la nivelul urmator. Care este parola cu care ati primit mesajul "Access granted" ruland fisierul 2.exe?
+## Q2. Trecem la nivelul urmator. Care este parola cu care ati primit mesajul "Access granted" ruland fisierul 2.exe?
 
 De data aceasta daca incercam sa folosim methoda "strings" nu vom gasi parola asadar continuam cu decompilerul.
 
