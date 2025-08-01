@@ -70,20 +70,20 @@ Putem vedea stringul " ;'gax#4x3<xdffb" dar daca incercam vom primi Access Denie
 
 Bun, atunci ar trebui sa recitim codul main ca sa intelegem.
 
+1. Ne salveaza input-ul in variabila v6.
 ```bash
 scanf("%s", v6);
 ```
-Ne salveaza input-ul in variabila v6.
 
+2. Copiaza acel string din dreapta in variabila Str2.
 ```bash
 strcpy(Str2, " ;'gax#4x3<xdffb");
 ```
-Copiaza acel string din dreapta in variabila Str2.
 
+3. Variabila v3 este egala cu rezultatul din functia hash cu inputul variabilei v6. 
 ```bash
 v3 = hash(v6);
 ```
-Variabila v3 este egala cu rezultatul din functia hash cu inputul variabilei v6. 
 
 Functia hash:
 
