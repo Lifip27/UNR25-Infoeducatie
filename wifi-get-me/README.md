@@ -20,3 +20,7 @@ aircrack-ng handshake.cap -w /usr/share/wordlists/rockyou.txt
 ## Captură de ecran
 
 ![Aircrack-ng în acțiune](poza.png)
+
+## Flag
+
+ctf{80a3045d4d9aa5b35c97b72b761c69009acfdfb87d806c3e03cb3b04addbb659}
