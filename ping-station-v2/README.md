@@ -15,17 +15,18 @@ Deschizând interfața aplicației putem observa un formular în care putem intr
 
 ![Interfața aplicației](poza1.png)
 
-Având în vedere contextul, suspectăm o vulnerabilitate de tip **Command Injection**. Începem testarea prin introducerea unor caractere speciale cum ar fi `;`, `+`, `\`, însă fără efect. În cele din urmă, caracterul `|` funcționează:
+Având în vedere contextul, suspectăm o vulnerabilitate de tip **Command Injection**. Începem testarea prin introducerea unor caractere speciale cum ar fi `;`, `+`, `\`, însă fără efect.
 
-![Test cu caracterul pipe `|`](poza2.png)
+![Test cu caractere diferite](poza2.png)
 
+În cele din urmă, caracterul `|` funcționează:
 Comanda folosită:
 
 192.168.1.1|ls
 
 Aceasta a permis listarea fișierelor de pe serverul aplicației, confirmând vulnerabilitatea:
 
-![Rezultatul comenzii ls](poza3.png)
+![Rezultatul comenzii ls cu characterul '|'](poza3.png)
 
 ## Exploatare
 
