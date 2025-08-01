@@ -42,3 +42,8 @@ Acest repository conține write-up-uri pentru diverse provocări din cadrul conc
 
 - [Digital Dust - Sleuthing](./Digital%20Dust%20-%20Sleuthing/README.md) 
 
+# Support
+
+Daca aveti intrebari sau nu am explicat atat de bine ceva va rog sa imi dati mesaj pe discord si va ajut fara nicio problema: lifip
+
+Nu sunt sponsorizat de nimeni, I just like CTFs.
