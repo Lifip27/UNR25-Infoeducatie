@@ -127,3 +127,5 @@ flag = bytes.fromhex(hex_str).decode()
 ```
 
 ##### Flag: CTF{4dm1t_y0u_l0v3_lum4_alr34dy}
+
+Am terminal chall dupa ce s-a incheiat competitia. Asadar nu am reusit sa transmit flagul la timp. :(
