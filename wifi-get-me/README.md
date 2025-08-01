@@ -15,6 +15,7 @@ Pentru a sparge parola rețelei, se folosește utilitarul `aircrack-ng` împreun
 
 ```bash
 aircrack-ng handshake.cap -w /usr/share/wordlists/rockyou.txt
+```
 
 ## Captură de ecran
 
